@@ -6,7 +6,7 @@ public class Encap {
 	private String name;
 	private int age;
 
-	public void se() {
+	public void Sample() {
 
 	}
 
